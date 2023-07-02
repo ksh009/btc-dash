@@ -63,6 +63,11 @@ function App() {
                   One more small change
                 </a>
               </li>
+              <li>
+                <a href="#" className="block py-2 px-4 hover:bg-gray-700">
+                  A small change made on the feature branch
+                </a>
+              </li>
             </ul>
           </div>
         </div>
