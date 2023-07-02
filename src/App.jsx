@@ -53,9 +53,14 @@ function App() {
                   News
                 </a>
               </li>
-			  <li>
+              <li>
                 <a href="#" className="block py-2 px-4 hover:bg-gray-700">
-                  One more link 
+                  One more link
+                </a>
+              </li>
+              <li>
+                <a href="#" className="block py-2 px-4 hover:bg-gray-700">
+                  One more small change
                 </a>
               </li>
             </ul>
